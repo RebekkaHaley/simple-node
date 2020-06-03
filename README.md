@@ -1,4 +1,8 @@
 # Simple Node
+
+## NB
+Code has been copied from: https://github.com/udacity/nd9990-c3-microservices-exercises/tree/master/lesson-2-containers/exercises/simple-node
+
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
